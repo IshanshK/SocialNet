@@ -14,7 +14,7 @@ const LoginPage = () => {
                 textAlign="center"
             >
                 <Typography fontWeight="bold" fontSize="32px" color="primary">
-                    Sociopedia
+                    SocialNet
                 </Typography>
             </Box>
 
@@ -29,6 +29,7 @@ const LoginPage = () => {
                 <Typography fontWeight="500" variant="h5" sx={{ mb: "1.5rem" }}>
                     Welcome to SocialNet, The Social Media
                 </Typography>
+                <Form/>
             </Box>
         </Box>
     );
